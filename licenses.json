@@ -28,5 +28,10 @@
     "package": "DAILY",
     "expiry": "2026-05-27 23:59:59",
     "status": "active"
+  },
+  "TZR0K7RXBC2PZOMK": {
+    "package": "MONTH",
+    "expiry": "2026-05-27 23:59:59",
+    "status": "active"
   }
 }
