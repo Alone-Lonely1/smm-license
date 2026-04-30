@@ -73,5 +73,10 @@
     "package": "DAILY",
     "expiry": "2026-05-6 23:59:59",
     "status": "active"
+  },
+  "SRSMTOGS0FHYTKAS": {
+    "package": "MONTH",
+    "expiry": "2026-05-30 23:59:59",
+    "status": "active"
   }
 }
